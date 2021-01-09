@@ -5,6 +5,13 @@ I'm currently working as a freelancer web developer while I'm in the senior year
 [![](https://img.shields.io/badge/-Ahmed_Fawzy-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedfawzy98/)
 [![](https://img.shields.io/badge/-ahmedfawzy671998@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedfawzy671998@gmail.com)
 
+## &#128187; What I'am currently working on
+- I'm working on blogging website with MERN stack (MongoDB-Express-React-Node) and my targets in this project:
+    - Learn React.js
+    - Learn GraphQL
+    - Apply TDD to my developing workflow
+    - Learning and developing with TypeScript
+
 ## &#128295; Technologies & Tools
 
 ![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
