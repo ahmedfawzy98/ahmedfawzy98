@@ -42,4 +42,4 @@ I'm currently working as a freelancer web developer while I'm in the senior year
 ## &#128200; My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ahmedfawzy98&theme=gruvbox&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzy98&langs_count=10&layout=compact&theme=gruvbox&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedfawzy98&theme=gruvbox&hide_border=true) -->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedfawzy98&theme=gruvbox&hide_border=true&v=2)
