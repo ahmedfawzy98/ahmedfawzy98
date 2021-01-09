@@ -6,7 +6,7 @@ I'm currently working as a freelancer web developer while I'm in the senior year
 [![](https://img.shields.io/badge/-ahmedfawzy671998@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedfawzy671998@gmail.com)
 
 ## &#128187; What I'am currently working on
-- I'm working on blogging website with MERN stack (MongoDB-Express-React-Node) and my targets in this project:
+- I'm working on blogging website with MERN stack (MongoDB-Express-React-Node), GraphQL, and my targets in this project:
     - Learn React.js
     - Learn GraphQL
     - Apply TDD to my developing workflow
